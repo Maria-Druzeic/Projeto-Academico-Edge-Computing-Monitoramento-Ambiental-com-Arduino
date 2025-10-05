@@ -52,6 +52,7 @@ Criar um sistema embarcado que:
 
 O projeto foi simulado no Tinkercad e apresentado em vídeo, mostrando o funcionamento completo do sistema e sua resposta às variações ambientais.
 #Link do vídeo no YouTube: https://youtu.be/ldMSibMshQs?si=EvnHPhwCTO0rBhNP
+#Link da simulação no Tinkercad: https://www.tinkercad.com/things/kSlubcygAkU-cp1-vinheria-agnello?sharecode=65hrIPfq7oM4CbYg-naYRs6-O56xNr_4yo8ZOt0T1Nk
 
 ## 📚 Contexto Acadêmico
 
